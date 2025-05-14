@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=html,js,css,sass,php,react,docker,nodejs,sqlite,vscode)" />
+    <img src="https://skillicons.dev/icons?i=html,js,css,sass,php,react,docker,nodejs,sqlite,vscode" />
   </a>
 </p>
 <br/>
