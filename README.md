@@ -3,8 +3,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lerin.joel/)
 
 <div align="center">
-Tecnologias que utilizo
-##
+  <h1>
+    Tecnologias que utilizo
+  </h1>
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
