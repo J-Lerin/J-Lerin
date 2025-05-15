@@ -1,4 +1,8 @@
-## Olá! Eu sou o Joel Lerin 🖐️
+<div align="center">
+  <h1>
+    Olá! Eu sou o Joel Lerin 🖐️
+  </h1>
+</div>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lerin.joel/)
 
