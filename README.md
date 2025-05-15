@@ -4,8 +4,8 @@
 
 <div align="center">
 Tecnologias que utilizo
-</div>
 ##
+</div>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,js,css,sass,php,react,docker,nodejs,sqlite,vscode" />
