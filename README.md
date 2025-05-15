@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    Olá! Eu sou o Joel Lerin 🖐️
+    Hi there 👋, I'm Joel
   </h1>
 </div>
 
@@ -12,7 +12,7 @@
 
 <div align="center">
   <h1>
-    Tecnologias que utilizo
+    Skills
   </h1>
 </div>
 <p align="center">
