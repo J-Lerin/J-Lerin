@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**J-Lerin/J-Lerin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Hi! I'm Lerin 👋</h2>
 
-Here are some ideas to get you started:
+<h3 style="color:#BD93F9;">🚀 Full Stack Developer</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>🔒 Most of the projects I work on are private or commercial, so I’m unable to share much of the code publicly.<br>
+Below is a quick overview of the technologies I use on a daily basis:</p>
+
+---
+
+### Front‑end
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,styledcomponents)](https://skillicons.dev)
+
+### Back‑end
+[![My Skills](https://skillicons.dev/icons?i=nodejs,php,mysql,postgres,sqlite,aws,docker)](https://skillicons.dev)
+
+### Tools & Platforms
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,github,git,postman,linux)](https://skillicons.dev)
+
+</div>
