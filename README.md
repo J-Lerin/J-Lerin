@@ -16,6 +16,6 @@ Below is a quick overview of the technologies I use on a daily basis:</p>
 [![My Skills](https://skillicons.dev/icons?i=nodejs,php,mysql,postgres,sqlite,aws,docker)](https://skillicons.dev)
 
 ### Tools & Platforms
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,github,git,postman,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,github,git,postman)](https://skillicons.dev)
 
 </div>
